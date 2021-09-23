@@ -24,3 +24,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+    # mutex or mutual exclusion can be used to oveercome issue
